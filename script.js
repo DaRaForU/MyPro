@@ -68,5 +68,7 @@ function checkScore(){
 
 }
 
+const a = 10;
+
 
 
